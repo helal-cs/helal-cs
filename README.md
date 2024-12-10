@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git)](https://skillicons.dev)
 
 ## GitHub Stats:
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helal-cs&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/helal-cs) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helal-cs&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/helal-cs) |
